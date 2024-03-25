@@ -1,0 +1,13 @@
+.ProgressBar {
+  margin-top: 2rem;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.Progress {
+  height: 100%;
+  background-color: #f04d89;
+  border-radius: 4px;
+}

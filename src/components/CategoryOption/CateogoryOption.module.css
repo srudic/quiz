@@ -1,0 +1,37 @@
+.Option {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+
+.Option:disabled {
+  cursor: default;
+}
+
+/* .Option:hover {
+  background-color: #5d759a;
+} */
+
+.Selected {
+  background-color: #f04d89;
+}
+
+.Icon {
+  background-color: #eaf0fe;
+  border-radius: 5px;
+  color: black;
+  padding: 0.2rem;
+  margin-right: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.OptionName {
+  font-size: 1.2rem;
+}

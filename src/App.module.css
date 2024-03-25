@@ -1,0 +1,9 @@
+.Wrapper {
+  min-height: 100vh;
+  padding: 8% 15% 0% 15%;
+}
+
+.Heading {
+  display: flex;
+  width: 100%;
+}

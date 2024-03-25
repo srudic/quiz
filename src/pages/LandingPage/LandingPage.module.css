@@ -1,0 +1,22 @@
+.Main {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5%;
+}
+
+.MainTitle {
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+}
+
+.Subtitle {
+  font-weight: normal;
+  font-style: italic;
+  color: #a5b4cb;
+}
+
+.Options {
+  width: 30%;
+  padding-top: 0.7rem;
+}
